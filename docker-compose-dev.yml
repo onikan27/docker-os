@@ -2,3 +2,4 @@ version: '3'
 services:
   os:
     image: ubuntu
+    tty: true
